@@ -1,0 +1,69 @@
+{
+  "current_student": {
+    "user_id": "u100",
+    "name": "Maya Patel",
+    "email": "maya.patel@example.edu"
+  },
+  "available_course_keys": [
+    {
+      "course_id": "DATA210",
+      "course_name": "Data Storytelling",
+      "instructor": "Prof. Morgan",
+      "enrollment_key": "DATA210-SPRING"
+    },
+    {
+      "course_id": "MISY350",
+      "course_name": "Python for Business Analytics",
+      "instructor": "Dr. Rivera",
+      "enrollment_key": "MISY350-SPRING"
+    },
+    {
+      "course_id": "WEB220",
+      "course_name": "Web Apps With Streamlit",
+      "instructor": "Dr. Chen",
+      "enrollment_key": "WEB220-SPRING"
+    }
+  ],
+  "enrollment_table": [
+    {
+      "enrollment_id": 2,
+      "user_id": "u100",
+      "email": "maya.patel@example.edu",
+      "course_id": "DATA210",
+      "course_name": "Data Storytelling",
+      "instructor": "Prof. Morgan",
+      "status": "enrolled",
+      "enrolled_at": "2026-05-05 19:33:57"
+    },
+    {
+      "enrollment_id": 1,
+      "user_id": "u100",
+      "email": "maya.patel@example.edu",
+      "course_id": "MISY350",
+      "course_name": "Python for Business Analytics",
+      "instructor": "Dr. Rivera",
+      "status": "enrolled",
+      "enrolled_at": "2026-05-05 19:33:57"
+    },
+    {
+      "enrollment_id": 3,
+      "user_id": "u101",
+      "email": "alex@example.edu",
+      "course_id": "MISY350",
+      "course_name": "Python for Business Analytics",
+      "instructor": "Dr. Rivera",
+      "status": "enrolled",
+      "enrolled_at": "2026-05-05 19:33:57"
+    },
+    {
+      "enrollment_id": 4,
+      "user_id": "u102",
+      "email": "blair@example.edu",
+      "course_id": "WEB220",
+      "course_name": "Web Apps With Streamlit",
+      "instructor": "Dr. Chen",
+      "status": "enrolled",
+      "enrolled_at": "2026-05-05 19:33:57"
+    }
+  ]
+}
